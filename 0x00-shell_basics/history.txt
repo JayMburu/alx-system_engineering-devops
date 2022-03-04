@@ -1,0 +1,70 @@
+    1  cd alx-system_engineering-devops
+    2  git add .
+    3  git commit -m "bb"
+    4  git push
+    5  git pull
+    6  git pull
+    7  git add .
+    8  git commit -m "cc"
+    9  git push
+   10  cd alx-system_engineering-devops
+   11  cd 0x00-shell_basics
+   12  vim 2-bring_me_home
+   13  chmod u+x 2-bring_me_home
+   14  git add --chmod=+x 2-bring_me_home
+   15  vim 3-listfiles
+   16  chmod u+x 3-listfiles
+   17  git add --chmod=+x 3-listfiles
+   18  vim 4-listmorefiles
+   19  chmod u+x 4-listmorefiles
+   20  git add --chmod=+x 4-listmorefiles
+   21  vim 5-listfilesdigitonly
+   22  chmod u+x 5-listfilesdigitonly
+   23  git add --chmod=+x 5-listfilesdigitonly
+   24  vim 6-firstdirectory
+   25  chmod u+x 6-firstdirectory
+   26  git add --chmod=+x 6-first directory
+   27  git add --chmod=+x 6-firstdirectory
+   28  vim 7-movethatfile
+   29  chmod u+x 7-movethatfile
+   30  git add --chmod=+x 7-movethatfile
+   31  vim 8-firstdelete
+   32  chmod u+x 8-firstdelete
+   33  git add --chmod=+x 8-firstdelete
+   34  vim 9-firstdirdeletion
+   35  chmod u+x 9-firstdirdeletion
+   36  git add --chmod=+x 9-firstdirdeletion
+   37  vim 10-back
+   38  chmod u+x 10-back
+   39  git add --chmod=+x 10-back
+   40  vim 11-lists
+   41  chmod u+x 11-lists
+   42  git add --chmod=+x 11-lists
+   43  vim 12-file_type
+   44  chmod 12-file_type
+   45  chmod u+x 12-file_type
+   46  git add --chmod=+x 12-file_type
+   47  vim 13-symbolic_link
+   48  chmod u+x 13-symbolic_link
+   49  git add --chmod=+x 13-symbolic_link
+   50  vim 14-copy_html
+   51  chmod u+x 14-copy_html
+   52  git add --chmod=+x 14-copy_html
+   53  vim 100-lets_move
+   54  chmod u+x 100-lets-move
+   55  chmod u+x 100-lets_move
+   56  git add --chmod=+x 100-lets_move
+   57  vim 101-clean_emacs
+   58  chmod u+x 101-clean_emacs
+   59  git add --chmod=+x 101-clean_emacs
+   60  vim 102-tree
+   61  chmod u+x 102-tree
+   62  git add --chmod=+x 102-tree
+   63  vim 103-commas
+   64  chmod 103-commas
+   65  chmod u+x 103-commas
+   66  git add --chmod=+x 103-commas
+   67  vim school.mgc
+   68  chmod u+x school.mgc
+   69  git add --chmod=+x school.mgc
+   70  history >> history.txt
